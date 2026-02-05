@@ -1,6 +1,6 @@
 ## Code Notes & Versioning
 
-**Note:** **Version 8 (v8)** is the most current and stable version of the CVT code. It has been tested using an **Arduino and breadboard** and should be used as the baseline for any new development.
+**Note:** **Version 9 (v9)** is the most current and stable version of the CVT code. It has been tested using an **Arduino and breadboard** and should be used as the baseline for any new development.
 
 All new code files must follow the updated naming convention:
 
