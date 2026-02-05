@@ -30,6 +30,25 @@ If you’re interested, **reach out to Katia on Discord**, and she can answer an
 
 ---
 
+### Driver Dash Display
+
+We are also exploring the addition of a **driver dash display** to provide live feedback during vehicle operation. The goal is to give the driver real time readings without relying on post run data analysis.
+
+Planned display outputs include:
+- Vehicle speed  
+- Secondary RPM  
+- CVT belt temperature (IR sensor)  
+
+Due to the off road environment, the display must be **IP67-rated** to withstand dust, water, mud, and vibration. Many off the shelf IP67 displays are expensive, so part of this project is to find **cost effective display solutions** that can meet durability requirements.
+
+This project may include:
+- Researching low cost display options compatible with Arduino  
+- Designing or selecting a **waterproof enclosure** for the screen  
+- Integrating the display with the existing DAQ system  
+- Ensuring readability in outdoor and high vibration conditions  
+
+---
+
 ## Underclassmen Projects (Hands On)
 
 For those interested in hands on work, there are opportunities to help test and validate the sensors we are using by connecting them to an Arduino and breadboard while we wait for final parts to be delivered. This is a great way to get familiar with the hardware and basic wiring before full integration.
