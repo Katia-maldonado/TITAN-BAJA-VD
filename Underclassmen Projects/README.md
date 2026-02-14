@@ -10,11 +10,11 @@ If you’re interested, **reach out to Katia on Discord**, and she can answer an
 
 ### CVT DYNO
 
-- [ ] Add code to output **live data** onto a screen  
-- [ ] Display outputs for:
-  - [ ] Hall effect sensor (Primary RPM)  
-  - [ ] Hall effect sensor (Secondary RPM)  
-  - [ ] Hall effect sensor (Disk Brake RPM)  
+- [x] Add code to output **live data** onto a screen  
+- [x] Display outputs for:
+  - [x] Hall effect sensor (Primary RPM)  
+  - [x] Hall effect sensor (Secondary RPM)  
+  - [x] Hall effect sensor (Disk Brake RPM)  
 
 ---
 
