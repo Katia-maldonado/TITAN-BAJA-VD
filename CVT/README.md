@@ -37,4 +37,10 @@ This data approach allows us to make informed adjustments to **spring rates, fly
 - [x] Push button (test control / reset)  
 - [x] LED indicators (system status)  
 - [x] Real-Time Clock (RTC)  
-- [ ] Display screen for real-time output  
+- [x] Display screen for real-time output
+
+---
+
+## Final Code Notes
+- V10: Leon, has outputs to both SD Card and external screen
+- V10.5: Katia, has outputs to both SD card and Serial Monitor on laptop
