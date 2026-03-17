@@ -61,12 +61,12 @@ Live telemetry is primarily used during testing sessions to monitor system healt
 ### Code  
 - [x] SD card reader shield (data logging)  
 - [x] Real-Time Clock (RTC) integration  
-- [ ] Brake Pressure Sensor (BPS)  
+- [x] Brake Pressure Sensor (BPS)  
 - [x] Hall effect sensor – Secondary RPM  
 - [x] Spark plug RPM pickup – Primary RPM  
-- [ ] IMU (gyroscope + accelerometer)  
-- [ ] IR sensor (temperature monitoring)  
-- [ ] GPS module  
+- [x] IMU (gyroscope + accelerometer)  
+- [x] IR sensor (temperature monitoring)  
+- [x] GPS module  
 - [x] Push button (test control / marker)  
 - [x] LED indicators (system status)  
 
