@@ -22,4 +22,4 @@ We currently run **8 sensors** on the Baja car, all connected to an Arduino base
 - 3-axis acceleration  
 - Brake pressure bias  
 
-All sensor data is routed through an **Arduino and SD card reader shield**, allowing each run to be logged directly to an SD card. The recorded data is then processed and analyzed in **MATLAB** to evaluate vehicle performance, CVT behavior, braking balance, and driver inputs.
+All sensor data is routed through a **Teensy**, allowing each run to be logged directly to an microSD card. The recorded data is then processed and analyzed in **MATLAB** to evaluate vehicle performance, CVT behavior, braking balance, and driver inputs.
